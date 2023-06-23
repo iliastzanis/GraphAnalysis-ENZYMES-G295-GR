@@ -2,6 +2,8 @@
 
 This project focuses on analyzing a graph network using various metrics and algorithms. The code is written in a Jupyter Notebook and utilizes libraries such as NetworkX, scikit-learn, matplotlib, pandas, and numpy.
 
+> **Disclaimer**: The content of the Jupyter Notebook provided in this project is written in the Greek language.
+
 ## Description
 
 The project uses different metrics to analyze a graph network. It performs the following tasks:
