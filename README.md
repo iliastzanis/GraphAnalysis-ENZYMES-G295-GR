@@ -30,7 +30,7 @@ To run the code in this project, follow these steps:
 
 1. Clone the repository to your local machine:
  ```
-   git clone https://github.com/iliastzanis/GraphAnalysis-ENZYMES-G295-GR/.git
+   git clone https://github.com/iliastzanis/GraphAnalysis-ENZYMES-G295-GR.git
  ```
 2. Navigate to the project directory:
 3. Launch Jupyter Notebook:
