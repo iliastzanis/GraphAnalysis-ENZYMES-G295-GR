@@ -2,4 +2,4 @@ Download Dataset from here:
 
 https://networkrepository.com/ENZYMES-g295.php
 
-After the download is over extract the file insite the data folder.
+After the download is over extract the file inside the data folder.
